@@ -1,8 +1,17 @@
 hello test test
 
 
-I'm making change now only master!
 
 
+I'm making change now only MASTER!!
 
 hopefully I can pull this to my branch branch1
+
+
+
+
+
+This change should be only on my BRANCH'branch1'
+
+I will try to merge and push this to master.
+
