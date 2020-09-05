@@ -15,3 +15,10 @@ This change should be only on my BRANCH'branch1'
 
 I will try to merge and push this to master.
 
+
+
+
+
+This line is modified on 'Master'
+let's see if I could make it thru this time.
+
