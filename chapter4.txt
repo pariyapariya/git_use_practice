@@ -8,6 +8,7 @@ This change should be only on my BRANCH'branch1'
 I will try to merge and push this to master.
 
 
+
 This line is modified on 'Master'
 let's see if I could make it thru this time.
 
@@ -15,9 +16,13 @@ Now, I'm adding this line into my BRANCH -- 'branch1'
 I will try to merge to master!
 
 
+
 I'm modifying on branch1, I guess, let me double check!
 
 
+
+This is working on 'Master'
+let's see what is gonna happend. so excited!
 
 
 
