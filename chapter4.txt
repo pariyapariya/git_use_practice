@@ -15,3 +15,7 @@ This change should be only on my BRANCH'branch1'
 
 I will try to merge and push this to master.
 
+
+Now, I'm adding this line into my BRANCH -- 'branch1'
+I will try to merge to master!
+
